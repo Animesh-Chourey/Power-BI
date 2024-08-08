@@ -18,3 +18,6 @@ This project is my attempt to learn and create an analysis on credit card datase
     * Select the 'Default' option from the Fields Tab. Drag the 'Education Level' from Fields tab and drop it to axis. We can use gender as a legend, so drag and drop the 'Sex' option to the legend.
     * Similar to the previous step, another chart is created for the 'Default' according to the 'Age' and 'Sex', and converted into a line graph.
     * Finally, one more chart is created for the 'Default' based on just the gender.
+* Default by Geolocation:
+    * Turned on an option for 'Shape Map' option by going to the option and setting menu and selecting -> Shape Map visual, available in the Preview feature tab, and restarting the app to enable the option for visualization.
+    * Selecting the 'Shape Map' option. Dragging the 'States' option for the location and color saturating each state according to the 'Default'.
