@@ -14,3 +14,7 @@ This project is my attempt to learn and create an analysis on credit card datase
     * Convert the values in the sex coloumn with 1 to Male and 2 as Female respectively. Going to replace values option and firstly replacing the values as mentioned before. (Here ensure the datatype is changed to 'text' from 'whole number' to replacce the numbers).
     * Similarly converted the categorical data from Education column respectively by adding a new column with conditional column option.
     * Same steps taken as the previous one for the Marriage column.
+* Default by Education Level:
+    * Select the 'Default' option from the Fields Tab. Drag the 'Education Level' from Fields tab and drop it to axis. We can use gender as a legend, so drag and drop the 'Sex' option to the legend.
+    * Similar to the previous step, another chart is created for the 'Default' according to the 'Age' and 'Sex', and converted into a line graph.
+    * Finally, one more chart is created for the 'Default' based on just the gender.
