@@ -21,3 +21,12 @@ This project is my attempt to learn and create an analysis on credit card datase
 * Default by Geolocation:
     * Turned on an option for 'Shape Map' option by going to the option and setting menu and selecting -> Shape Map visual, available in the Preview feature tab, and restarting the app to enable the option for visualization.
     * Selecting the 'Shape Map' option. Dragging the 'States' option for the location and color saturating each state according to the 'Default'.
+* Defaulter Ratio and Slicing Data:
+    * Created a 'Default' chart based on 'Marital Status' and 'Sex'.
+    * Went to the 'Card' chart. Selected the 'Default' option. In the fields menu, went to the drag-drop button and changed the data recording for the 'Card' chart from sum to avg.
+    * Added a 'Slicer' chart for the Education Level to get a better understanding. This gave us an extra dimension to look at data, as previously there was not an option to look at just the one particular type of data, let's say for Graduates, there was no option to look at both the male and female graduates together because the data is catgorical. With the help of slicer, this hurdle can be crossed easily.
+    * Similarly, created a slicer for the 'Marital Status'.
+
+
+##### A look at the final view of how the reports are looking
+![](final_report.png)
